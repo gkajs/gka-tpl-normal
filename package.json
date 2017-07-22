@@ -1,0 +1,23 @@
+{
+  "name": "gka-tpl-normal",
+  "version": "0.0.2",
+  "description": "gka template normal",
+  "main": "index.js",
+  "scripts": {
+  },
+  "homepage": "https://github.com/joeyguo/gka-tpl-normal",
+  "bugs": {
+    "url": "https://github.com/joeyguo/gka-tpl-normal/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/joeyguo/gka-tpl-normal.git"
+  },
+  "keywords": [
+    "gka",
+    "template",
+    "normal"
+  ],
+  "author": "joeyguo",
+  "license": "MIT"
+}
