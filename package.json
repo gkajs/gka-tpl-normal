@@ -1,17 +1,17 @@
 {
   "name": "gka-tpl-normal",
-  "version": "0.0.3",
+  "version": "1.0.0",
   "description": "gka template normal",
   "main": "index.js",
   "scripts": {
   },
-  "homepage": "https://github.com/gka-tpl/gka-tpl-normal",
+  "homepage": "https://github.com/gkajs/gka-tpl-normal",
   "bugs": {
-    "url": "https://github.com/gka-tpl/gka-tpl-normal/issues"
+    "url": "https://github.com/gkajs/gka-tpl-normal/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/gka-tpl/gka-tpl-normal.git"
+    "url": "git://github.com/gkajs/gka-tpl-normal.git"
   },
   "keywords": [
     "gka",
