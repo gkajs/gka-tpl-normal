@@ -7,6 +7,8 @@
 
 [gka](https://github.com/joeyguo/gka) 文件生成模板，一键式生成 css keyframes 序列帧动画文件。
 
+[在线示例](https://gkajs.github.io/gka-tpl-normal/example/gka.html)  [示例代码](https://github.com/gkajs/gka-tpl-normal/tree/master/example)
+
 # Install
 
 ```sh
