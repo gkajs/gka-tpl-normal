@@ -18,7 +18,7 @@
 
 .animation {
     animation-name: keyframes;
-    animation-duration: 1.2s;
+    animation-duration: 0.8s;
 }
 
 @-webkit-keyframes keyframes {
