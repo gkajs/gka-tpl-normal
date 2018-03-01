@@ -1,3 +1,6 @@
+注：已内置到gka中，仓库迁移至[gka](https://github.com/gkajs/gka)
+---
+
 [![gkatemplatew](https://user-images.githubusercontent.com/10385585/28489021-a9cc83aa-6eea-11e7-8c1b-4bb326bb9fe9.png)](https://github.com/joeyguo/gka)
 
 ## gka-tpl-normal
